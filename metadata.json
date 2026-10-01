@@ -1,0 +1,6 @@
+{
+  "name": "Pearson Versant Assessment Portal & Scorekeeper",
+  "description": "Pearson Versant candidate portal with TIN verification, system readiness check, interactive spoken English assessment, and automated CEFR scoring.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
